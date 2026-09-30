@@ -1,3 +1,11 @@
+# Auto-GPT Experiment
+
+[English](README.md) | [日本語](README.ja.md)
+
+An experimental autonomous GPT-based agent that chains tasks and tool use. This repository reflects its checked-in version; refer to its original documentation for the supported capabilities.
+
+---
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 [![Official Website](https://img.shields.io/badge/Official%20Website-agpt.co-blue?style=flat&logo=world&logoColor=white)](https://agpt.co)
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
